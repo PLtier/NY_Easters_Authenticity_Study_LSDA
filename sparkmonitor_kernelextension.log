@@ -1,0 +1,30 @@
+INFO:  2025-05-30 04:08:04,924 - sparkmonitorkernel - 6306 - MainProcess -         140475886556992 - MainThread
+ Starting Kernel Extension 
+
+INFO:  2025-05-30 04:08:04,925 - sparkmonitorkernel - 6306 - MainProcess -         140475886556992 - MainThread
+ Socket Listening on port 45619 
+
+INFO:  2025-05-30 04:08:04,926 - sparkmonitorkernel - 6306 - MainProcess -         140466323203776 - Thread-3
+ Starting socket thread, going to accept 
+
+INFO:  2025-05-30 04:08:04,927 - sparkmonitorkernel - 6306 - MainProcess -         140475886556992 - MainThread
+ 45619 
+
+INFO:  2025-05-30 04:08:04,928 - sparkmonitorkernel - 6306 - MainProcess -         140475886556992 - MainThread
+ Adding jar from /opt/conda/lib/python3.10/site-packages/sparkmonitor/listener.jar  
+
+INFO:  2025-05-30 04:08:07,342 - sparkmonitorkernel - 6306 - MainProcess -         140475886556992 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2025, 5, 30, 2, 8, 4, 941000, tzinfo=tzutc()), 'msg_id': '13e81b85-d9e8-4988-8068-a2f9a13b1d38', 'msg_type': 'comm_open', 'session': '568e629e-c77c-4c7d-a0f6-88ce71685dc0', 'username': '', 'version': '5.2'}, 'msg_id': '13e81b85-d9e8-4988-8068-a2f9a13b1d38', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '446e5492-1ec8-478e-82dc-e581d548f342', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
+INFO:  2025-05-30 04:26:30,393 - sparkmonitorkernel - 6306 - MainProcess -         140475886556992 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2025, 5, 30, 2, 23, 30, 548000, tzinfo=tzutc()), 'msg_id': '66b95598-7245-48c3-9091-43d1054506d6', 'msg_type': 'comm_open', 'session': '277753d3-c1b2-4f3a-9310-5c6ee7f7eebf', 'username': '', 'version': '5.2'}, 'msg_id': '66b95598-7245-48c3-9091-43d1054506d6', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '6a02c50d-5cc7-4c0d-8fc0-cc01de53c6a3', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
+INFO:  2025-05-30 04:26:30,395 - sparkmonitorkernel - 6306 - MainProcess -         140475886556992 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'date': datetime.datetime(2025, 5, 30, 2, 23, 30, 548000, tzinfo=tzutc()), 'msg_id': '62d4d605-2424-40c2-aa5e-2882375737eb', 'msg_type': 'comm_open', 'session': '277753d3-c1b2-4f3a-9310-5c6ee7f7eebf', 'username': '', 'version': '5.2'}, 'msg_id': '62d4d605-2424-40c2-aa5e-2882375737eb', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'fde872ce-6109-4675-b7b9-07681b127cc3', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
