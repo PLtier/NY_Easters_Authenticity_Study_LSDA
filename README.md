@@ -1,3 +1,2 @@
-# bdm-a2-template
-
-This template will help you connect to a Spark Cluster App submitted on SDU UCloud and show you how to load in the data.
+# Please see the report!
+[Report](./a2_report.pdf)
